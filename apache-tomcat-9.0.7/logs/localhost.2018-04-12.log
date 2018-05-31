@@ -1,0 +1,62 @@
+12-Apr-2018 08:51:30.434 信息 [Thread-12] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springmvc'
+12-Apr-2018 08:51:30.454 信息 [Thread-12] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+12-Apr-2018 08:51:30.523 信息 [Thread-12] org.apache.catalina.core.ApplicationContext.log Shutting down log4j
+12-Apr-2018 08:51:30.617 信息 [Thread-12] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+12-Apr-2018 08:51:30.617 信息 [Thread-12] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+12-Apr-2018 08:56:50.886 信息 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Apr-2018 08:56:50.937 信息 [main] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'xxl-job-admin' = [E:\软件\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1\]
+12-Apr-2018 08:56:51.305 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+12-Apr-2018 08:56:55.083 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+12-Apr-2018 08:56:57.682 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+12-Apr-2018 08:56:57.682 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+12-Apr-2018 08:56:57.684 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2bf83b29')
+12-Apr-2018 11:27:33.395 信息 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Apr-2018 11:27:33.418 信息 [main] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'xxl-job-admin' = [E:\软件\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1\]
+12-Apr-2018 11:27:33.592 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+12-Apr-2018 11:27:37.040 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+12-Apr-2018 11:27:39.836 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+12-Apr-2018 11:27:39.837 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+12-Apr-2018 11:27:39.840 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2ecb7f0c')
+12-Apr-2018 11:27:40.708 信息 [Thread-11] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springmvc'
+12-Apr-2018 11:27:40.711 信息 [Thread-11] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+12-Apr-2018 11:27:40.740 信息 [Thread-11] org.apache.catalina.core.ApplicationContext.log Shutting down log4j
+12-Apr-2018 11:27:40.826 信息 [Thread-11] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+12-Apr-2018 11:27:40.826 信息 [Thread-11] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+12-Apr-2018 11:27:52.929 信息 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Apr-2018 11:27:52.964 信息 [main] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'xxl-job-admin' = [E:\软件\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1\]
+12-Apr-2018 11:27:53.085 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+12-Apr-2018 11:27:56.744 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+12-Apr-2018 11:27:58.596 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+12-Apr-2018 11:27:58.596 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+12-Apr-2018 11:27:58.598 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2ef99072')
+12-Apr-2018 13:27:15.792 信息 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Apr-2018 13:27:15.842 信息 [main] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'xxl-job-admin' = [E:\软件\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1\]
+12-Apr-2018 13:27:16.118 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+12-Apr-2018 13:27:19.765 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+12-Apr-2018 13:27:22.175 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+12-Apr-2018 13:27:22.176 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+12-Apr-2018 13:27:22.178 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@685783b1')
+12-Apr-2018 13:32:27.723 信息 [Thread-12] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springmvc'
+12-Apr-2018 13:32:27.729 信息 [Thread-12] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+12-Apr-2018 13:32:27.752 信息 [Thread-12] org.apache.catalina.core.ApplicationContext.log Shutting down log4j
+12-Apr-2018 13:32:28.033 信息 [Thread-12] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+12-Apr-2018 13:32:28.033 信息 [Thread-12] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+12-Apr-2018 13:32:44.148 信息 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Apr-2018 13:32:44.163 信息 [main] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'xxl-job-admin' = [E:\软件\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1\]
+12-Apr-2018 13:32:44.241 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+12-Apr-2018 13:32:47.554 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+12-Apr-2018 13:32:49.962 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+12-Apr-2018 13:32:49.977 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+12-Apr-2018 13:32:49.977 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2bf83b29')
+12-Apr-2018 13:42:10.320 信息 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Apr-2018 13:42:10.430 信息 [main] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'xxl-job-admin' = [E:\软件\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1\]
+12-Apr-2018 13:42:10.564 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+12-Apr-2018 13:42:23.225 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+12-Apr-2018 13:42:25.959 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+12-Apr-2018 13:42:25.959 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+12-Apr-2018 13:42:25.961 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1502cd38')
+12-Apr-2018 13:42:26.376 信息 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springmvc'
+12-Apr-2018 13:42:26.383 信息 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+12-Apr-2018 13:42:26.822 信息 [main] org.apache.catalina.core.ApplicationContext.log Shutting down log4j
+12-Apr-2018 13:42:26.861 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+12-Apr-2018 13:42:26.861 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()

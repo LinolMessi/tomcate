@@ -1,0 +1,7 @@
+11-Apr-2018 19:07:35.313 信息 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Apr-2018 19:07:35.340 信息 [main] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'xxl-job-admin' = [E:\软件\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1\]
+11-Apr-2018 19:07:35.485 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+11-Apr-2018 19:07:39.013 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+11-Apr-2018 19:07:40.990 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Apr-2018 19:07:40.990 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Apr-2018 19:07:40.992 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@39482f2b')

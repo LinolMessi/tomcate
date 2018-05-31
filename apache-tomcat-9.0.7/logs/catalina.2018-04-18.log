@@ -1,0 +1,292 @@
+18-Apr-2018 16:54:14.783 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.7
+18-Apr-2018 16:54:14.787 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 3 2018 19:53:05 UTC
+18-Apr-2018 16:54:14.788 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.7.0
+18-Apr-2018 16:54:14.788 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+18-Apr-2018 16:54:14.789 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+18-Apr-2018 16:54:14.790 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Apr-2018 16:54:14.791 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_161\jre
+18-Apr-2018 16:54:14.793 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_161-b12
+18-Apr-2018 16:54:14.794 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Apr-2018 16:54:14.795 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\软件\apache-tomcat-9.0.7
+18-Apr-2018 16:54:14.796 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\软件\apache-tomcat-9.0.7
+18-Apr-2018 16:54:14.797 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\软件\apache-tomcat-9.0.7\conf\logging.properties
+18-Apr-2018 16:54:14.798 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Apr-2018 16:54:14.800 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Apr-2018 16:54:14.801 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Apr-2018 16:54:14.802 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Apr-2018 16:54:14.803 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\软件\apache-tomcat-9.0.7
+18-Apr-2018 16:54:14.805 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\软件\apache-tomcat-9.0.7
+18-Apr-2018 16:54:14.806 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\软件\apache-tomcat-9.0.7\temp
+18-Apr-2018 16:54:14.808 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_161\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\app\Administrator\product\11.2.0\dbhome_1\bin;D:\app\Administrator\product\11.2.0\dbhome_2\bin;D:\app\Administrator\product\11.2.0\dbhome_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Java\jdk1.8.0_161\jre\bin;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\Doctrine extensions for PHP\;D:\Program Files\apache-maven\bin;;.]
+18-Apr-2018 16:54:14.952 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8081"]
+18-Apr-2018 16:54:15.114 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Apr-2018 16:54:15.122 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2018 16:54:15.125 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Apr-2018 16:54:15.127 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1091 ms
+18-Apr-2018 16:54:15.163 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Apr-2018 16:54:15.164 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.7
+18-Apr-2018 16:54:15.209 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [E:\软件\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1.war]
+18-Apr-2018 16:54:23.538 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Apr-2018 16:54:31.712 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [E:\软件\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1.war] has finished in [16,502] ms
+18-Apr-2018 16:54:31.715 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\docs]
+18-Apr-2018 16:54:31.774 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\docs] has finished in [60] ms
+18-Apr-2018 16:54:31.776 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\examples]
+18-Apr-2018 16:54:32.230 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\examples] has finished in [454] ms
+18-Apr-2018 16:54:32.236 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\host-manager]
+18-Apr-2018 16:54:32.323 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\host-manager] has finished in [88] ms
+18-Apr-2018 16:54:32.334 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\manager]
+18-Apr-2018 16:54:32.387 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\manager] has finished in [53] ms
+18-Apr-2018 16:54:32.392 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\ROOT]
+18-Apr-2018 16:54:32.431 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\ROOT] has finished in [40] ms
+18-Apr-2018 16:54:32.441 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+18-Apr-2018 16:54:32.474 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2018 16:54:32.484 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 17356 ms
+18-Apr-2018 16:56:16.086 信息 [Thread-12] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+18-Apr-2018 16:56:16.259 信息 [Thread-12] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2018 16:56:16.465 信息 [Thread-12] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+18-Apr-2018 16:56:16.592 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [xxl-job-admin-1.9.1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Apr-2018 16:56:16.607 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.609 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-2] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.614 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-3] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.617 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-4] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.619 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-5] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.621 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-6] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.623 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-7] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.625 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-8] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.627 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-9] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.629 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-10] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.631 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-11] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.633 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-12] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.635 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-13] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.637 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-14] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.639 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-15] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 16:56:16.642 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+18-Apr-2018 16:56:16.684 信息 [Thread-12] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+18-Apr-2018 16:56:16.689 信息 [Thread-12] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2018 16:56:16.695 信息 [Thread-12] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+18-Apr-2018 16:56:16.698 信息 [Thread-12] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2018 16:56:26.884 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.7
+18-Apr-2018 16:56:26.889 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 3 2018 19:53:05 UTC
+18-Apr-2018 16:56:26.890 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.7.0
+18-Apr-2018 16:56:26.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+18-Apr-2018 16:56:26.892 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+18-Apr-2018 16:56:26.893 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Apr-2018 16:56:26.893 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_161\jre
+18-Apr-2018 16:56:26.896 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_161-b12
+18-Apr-2018 16:56:26.897 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Apr-2018 16:56:26.898 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\软件\apache-tomcat-9.0.7
+18-Apr-2018 16:56:26.899 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\软件\apache-tomcat-9.0.7
+18-Apr-2018 16:56:26.900 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\软件\apache-tomcat-9.0.7\conf\logging.properties
+18-Apr-2018 16:56:26.902 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Apr-2018 16:56:26.904 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Apr-2018 16:56:26.906 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Apr-2018 16:56:26.907 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Apr-2018 16:56:26.908 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\软件\apache-tomcat-9.0.7
+18-Apr-2018 16:56:26.910 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\软件\apache-tomcat-9.0.7
+18-Apr-2018 16:56:26.912 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\软件\apache-tomcat-9.0.7\temp
+18-Apr-2018 16:56:26.915 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_161\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\app\Administrator\product\11.2.0\dbhome_1\bin;D:\app\Administrator\product\11.2.0\dbhome_2\bin;D:\app\Administrator\product\11.2.0\dbhome_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Java\jdk1.8.0_161\jre\bin;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\Doctrine extensions for PHP\;D:\Program Files\apache-maven\bin;;.]
+18-Apr-2018 16:56:27.054 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8081"]
+18-Apr-2018 16:56:27.216 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Apr-2018 16:56:27.227 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2018 16:56:27.229 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Apr-2018 16:56:27.231 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 818 ms
+18-Apr-2018 16:56:27.270 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Apr-2018 16:56:27.271 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.7
+18-Apr-2018 16:56:27.297 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [E:\软件\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1.war]
+18-Apr-2018 16:56:30.971 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Apr-2018 16:56:35.913 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [E:\软件\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1.war] has finished in [8,617] ms
+18-Apr-2018 16:56:35.916 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\docs]
+18-Apr-2018 16:56:35.942 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\docs] has finished in [26] ms
+18-Apr-2018 16:56:35.945 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\examples]
+18-Apr-2018 16:56:36.251 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\examples] has finished in [306] ms
+18-Apr-2018 16:56:36.253 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\host-manager]
+18-Apr-2018 16:56:36.292 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\host-manager] has finished in [39] ms
+18-Apr-2018 16:56:36.295 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\manager]
+18-Apr-2018 16:56:36.325 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\manager] has finished in [30] ms
+18-Apr-2018 16:56:36.328 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\ROOT]
+18-Apr-2018 16:56:36.352 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\ROOT] has finished in [24] ms
+18-Apr-2018 16:56:36.361 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+18-Apr-2018 16:56:36.380 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2018 16:56:36.388 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 9156 ms
+18-Apr-2018 17:00:43.784 信息 [Thread-12] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+18-Apr-2018 17:00:43.970 信息 [Thread-12] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2018 17:00:44.173 信息 [Thread-12] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+18-Apr-2018 17:00:44.261 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [xxl-job-admin-1.9.1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Apr-2018 17:00:44.264 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.266 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-2] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.268 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-3] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.270 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-4] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.272 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-5] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.273 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-6] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.274 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-7] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.277 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-8] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.305 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-9] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.307 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-10] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.309 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-11] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.311 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-12] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.313 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-13] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.315 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-14] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.317 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [quartzScheduler_Worker-15] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:568)
+18-Apr-2018 17:00:44.320 警告 [Thread-12] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [xxl-job-admin-1.9.1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+18-Apr-2018 17:00:44.363 信息 [Thread-12] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+18-Apr-2018 17:00:44.369 信息 [Thread-12] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2018 17:00:44.374 信息 [Thread-12] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+18-Apr-2018 17:00:44.376 信息 [Thread-12] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2018 17:01:11.155 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.7
+18-Apr-2018 17:01:11.158 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 3 2018 19:53:05 UTC
+18-Apr-2018 17:01:11.159 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.7.0
+18-Apr-2018 17:01:11.160 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+18-Apr-2018 17:01:11.161 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+18-Apr-2018 17:01:11.162 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Apr-2018 17:01:11.162 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_161\jre
+18-Apr-2018 17:01:11.165 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_161-b12
+18-Apr-2018 17:01:11.166 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Apr-2018 17:01:11.167 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\软件\apache-tomcat-9.0.7
+18-Apr-2018 17:01:11.168 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\软件\apache-tomcat-9.0.7
+18-Apr-2018 17:01:11.169 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\软件\apache-tomcat-9.0.7\conf\logging.properties
+18-Apr-2018 17:01:11.170 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Apr-2018 17:01:11.172 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Apr-2018 17:01:11.173 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Apr-2018 17:01:11.174 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Apr-2018 17:01:11.175 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\软件\apache-tomcat-9.0.7
+18-Apr-2018 17:01:11.177 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\软件\apache-tomcat-9.0.7
+18-Apr-2018 17:01:11.178 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\软件\apache-tomcat-9.0.7\temp
+18-Apr-2018 17:01:11.180 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_161\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\app\Administrator\product\11.2.0\dbhome_1\bin;D:\app\Administrator\product\11.2.0\dbhome_2\bin;D:\app\Administrator\product\11.2.0\dbhome_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Java\jdk1.8.0_161\jre\bin;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\Doctrine extensions for PHP\;D:\Program Files\apache-maven\bin;;.]
+18-Apr-2018 17:01:11.316 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+18-Apr-2018 17:01:11.491 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Apr-2018 17:01:11.499 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2018 17:01:11.502 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Apr-2018 17:01:11.503 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 820 ms
+18-Apr-2018 17:01:11.533 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Apr-2018 17:01:11.534 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.7
+18-Apr-2018 17:01:11.556 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [E:\软件\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1.war]
+18-Apr-2018 17:01:15.292 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Apr-2018 17:01:20.678 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [E:\软件\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1.war] has finished in [9,121] ms
+18-Apr-2018 17:01:20.681 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\docs]
+18-Apr-2018 17:01:20.709 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\docs] has finished in [28] ms
+18-Apr-2018 17:01:20.712 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\examples]
+18-Apr-2018 17:01:20.986 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\examples] has finished in [273] ms
+18-Apr-2018 17:01:20.988 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\host-manager]
+18-Apr-2018 17:01:21.043 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\host-manager] has finished in [54] ms
+18-Apr-2018 17:01:21.046 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\manager]
+18-Apr-2018 17:01:21.077 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\manager] has finished in [32] ms
+18-Apr-2018 17:01:21.080 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\软件\apache-tomcat-9.0.7\webapps\ROOT]
+18-Apr-2018 17:01:21.109 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\软件\apache-tomcat-9.0.7\webapps\ROOT] has finished in [29] ms
+18-Apr-2018 17:01:21.116 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+18-Apr-2018 17:01:21.134 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2018 17:01:21.143 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 9638 ms
+18-Apr-2018 17:02:16.242 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.7
+18-Apr-2018 17:02:16.249 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 3 2018 19:53:05 UTC
+18-Apr-2018 17:02:16.250 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.7.0
+18-Apr-2018 17:02:16.252 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+18-Apr-2018 17:02:16.253 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+18-Apr-2018 17:02:16.253 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Apr-2018 17:02:16.254 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_161\jre
+18-Apr-2018 17:02:16.257 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_161-b12
+18-Apr-2018 17:02:16.258 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Apr-2018 17:02:16.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\apache-tomcat-9.0.7
+18-Apr-2018 17:02:16.260 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\apache-tomcat-9.0.7
+18-Apr-2018 17:02:16.261 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\apache-tomcat-9.0.7\conf\logging.properties
+18-Apr-2018 17:02:16.261 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Apr-2018 17:02:16.263 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Apr-2018 17:02:16.264 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Apr-2018 17:02:16.265 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Apr-2018 17:02:16.267 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\apache-tomcat-9.0.7
+18-Apr-2018 17:02:16.269 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\apache-tomcat-9.0.7
+18-Apr-2018 17:02:16.270 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\apache-tomcat-9.0.7\temp
+18-Apr-2018 17:02:16.271 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_161\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\app\Administrator\product\11.2.0\dbhome_1\bin;D:\app\Administrator\product\11.2.0\dbhome_2\bin;D:\app\Administrator\product\11.2.0\dbhome_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Java\jdk1.8.0_161\jre\bin;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\Doctrine extensions for PHP\;D:\Program Files\apache-maven\bin;;.]
+18-Apr-2018 17:02:16.423 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+18-Apr-2018 17:02:16.606 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Apr-2018 17:02:16.619 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2018 17:02:16.622 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Apr-2018 17:02:16.623 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 920 ms
+18-Apr-2018 17:02:16.681 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Apr-2018 17:02:16.682 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.7
+18-Apr-2018 17:02:16.714 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [E:\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1.war]
+18-Apr-2018 17:02:20.237 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Apr-2018 17:02:25.341 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [E:\apache-tomcat-9.0.7\webapps\xxl-job-admin-1.9.1.war] has finished in [8,626] ms
+18-Apr-2018 17:02:25.343 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\apache-tomcat-9.0.7\webapps\docs]
+18-Apr-2018 17:02:25.380 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\apache-tomcat-9.0.7\webapps\docs] has finished in [36] ms
+18-Apr-2018 17:02:25.384 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\apache-tomcat-9.0.7\webapps\examples]
+18-Apr-2018 17:02:25.802 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\apache-tomcat-9.0.7\webapps\examples] has finished in [418] ms
+18-Apr-2018 17:02:25.804 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\apache-tomcat-9.0.7\webapps\host-manager]
+18-Apr-2018 17:02:25.863 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\apache-tomcat-9.0.7\webapps\host-manager] has finished in [59] ms
+18-Apr-2018 17:02:25.865 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\apache-tomcat-9.0.7\webapps\manager]
+18-Apr-2018 17:02:25.895 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\apache-tomcat-9.0.7\webapps\manager] has finished in [31] ms
+18-Apr-2018 17:02:25.897 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\apache-tomcat-9.0.7\webapps\ROOT]
+18-Apr-2018 17:02:25.921 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\apache-tomcat-9.0.7\webapps\ROOT] has finished in [25] ms
+18-Apr-2018 17:02:25.929 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+18-Apr-2018 17:02:25.951 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2018 17:02:25.958 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 9334 ms
